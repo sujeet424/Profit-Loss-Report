@@ -43,18 +43,14 @@
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills Gained:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
 
 
-## 💡 Importance: The Sales Report helps in understanding top customers and monitoring sales, while the Finance Report helps comprehend overall company performance.
+## 💡 Importance: 
+The Sales Report helps in understanding top customers and monitoring sales, while the Finance Report helps comprehend overall company performance.
 
 
 ## 🟢 Benefits:
 
 Sales Analytics: Enhanced negotiation capabilities with retailers and distributors, precision in discount allocation, and identification of expansion opportunities guided by insights from Sales Analytics.
 
-Finance Analytics fosters improved budget facilitation and cultivates a sense of assurance in the financial prospects, establishing a robust cornerstone for forthcoming strategic planning.
+Finance Analytics fosters improved budget facilitation and cultivate a sense of assurance in the financial prospects, establishing a robust cornerstone for forthcoming strategic planning.
